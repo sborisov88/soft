@@ -1,3 +1,0 @@
-https://www.acer.com/ru-ru/support/product-support/Aspire_A515-57
-https://learn.microsoft.com/en-us/windows/wsl/install-manual
-https://habr.com/ru/articles/870494/
